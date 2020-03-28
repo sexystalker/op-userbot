@@ -1,7 +1,7 @@
-## WELCOME NIGGA
+## WELCOME NIGGA 😈
 # FORK AT YOUR OWN RISK
 # Installing
-Contact https://t.me/Hack12R for any problem
+Contact https://t.me/Online_Promoter for any problem
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
